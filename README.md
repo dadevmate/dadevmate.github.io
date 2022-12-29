@@ -164,9 +164,9 @@ highest level ( Level 20 )?</h4>
  <h3>Stuff about me</h3>
  <ul>
  <li>I was part of the Swift Accelerator Class of 2022</li>
- <li>Apple product enthusiast<li>
- <li>Quite Business savvy<li>
- <li>Want to change the world through technology<li>
+ <li>Apple product enthusiast</li>
+ <li>Quite Business savvy</li>
+ <li>Want to change the world through technology</li>
  </ul>
  </body>
 </html>
