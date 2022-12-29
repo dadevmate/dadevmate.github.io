@@ -1,7 +1,7 @@
 # Nethan's Hub
 
 Hi, I'm Nethan Nerella. I'm an iOS App Developer, Swift programmer and a Student. I'm also a pretty big  fan!
-Here, you can find my projects, achievements and more.
+Here, you can find my projects, achievements and more. 
 
 <html>
 <body>
@@ -103,5 +103,29 @@ images correctly. Level up as you get more points!
   
 Can you make it to the
 highest level ( Level 20 )?</h4> 
+ 
+ 
+ <h2> Skills </h2>
+ 
+ <h3>Languages</h3>
+ <h4> 
+  
+  - HTML, CSS, JavaScript
+  - C++
+  - C#
+  - Swift Programming Language
+  
+ </h4>
+ 
+  <h3>IDEs</h3>
+ <h4> 
+  
+  - Xcode ( App Development on iOS platforms )
+  - Visual Studio ( Web development )
+  - Visual Studio Code ( Game Development on Unity )
+  
+ </h4>
  </body>
 </html>
+
+Thanks for stopping by!
