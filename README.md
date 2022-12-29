@@ -1,6 +1,7 @@
-# Nethan's Portfolio
+# Nethan's Hub
 
-HI
+Hi, I'm Nethan Nerella. I'm an iOS App Developer, Swift programmer and a Student. I'm also a pretty big Apple fan!
+Here, you can find my projects, achievements and more.
 
 <html>
 <body>
