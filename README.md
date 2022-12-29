@@ -13,6 +13,10 @@ Here, you can find my projects, achievements and more.
 
   <h5> <a href="https://www.credly.com/badges/f5cee40b-fd69-421e-9bc1-c8f1f31a7128/public_url">Digital Badge</a></h5>
  
+ <h2>Apps built</h2>
+ <h4>I love building apps and other software. Here, you can find what I've on the App Store</h4>
+ 
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5cee40b-fd69-421e-9bc1-c8f1f31a7128" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   
  </body>
 </html>
