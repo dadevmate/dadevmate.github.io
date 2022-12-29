@@ -111,8 +111,11 @@ highest level ( Level 20 )?</h4>
  <h4> 
   
   - HTML, CSS, JavaScript
+  
   - C++
+  
   - C#
+  
   - Swift Programming Language
   
  </h4>
@@ -121,7 +124,9 @@ highest level ( Level 20 )?</h4>
  <h4> 
   
   - Xcode ( App Development on iOS platforms )
+  
   - Visual Studio ( Web development )
+  
   - Visual Studio Code ( Game Development on Unity )
   
  </h4>
