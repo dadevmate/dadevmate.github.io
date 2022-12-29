@@ -1,6 +1,6 @@
 # Nethan's Hub
 
-Hi, I'm Nethan Nerella. I'm an iOS App Developer, Swift programmer and a Student. I'm also a pretty big  fan!
+Hi, I'm Nethan Nerella. I'm an  Developer, Swift programmer and a Student. I'm also a pretty big  fan!
 Here, you can find my projects, achievements and more. 
 
 <html>
@@ -109,27 +109,41 @@ highest level ( Level 20 )?</h4>
  
  <h3>Languages</h3>
 
+  <ul>
+  <li>HTML, CSS, JavaScript</li>
   
-  <h5>- HTML, CSS, JavaScript</h5>
+  <li>C++</li>
   
-  <h5>- C++</h5>
+  <li>C#</li>
   
-  <h5>- C#</h5>
-  
-  <h5>- Swift Programming Language</h5>
-  
+  <li>Swift Programming Language</li>
+ </ul>
 
  
   <h3>IDEs</h3>
 
+  <ul>
+  <li>Xcode ( App Development on Apple platforms )</li>
   
-  <h5>- Xcode ( App Development on iOS platforms )</h5>
+  <li>Visual Studio ( Game development )</li>
   
-  <h5>- Visual Studio ( Web development )</h5>
-  
-  <h5>- Visual Studio Code ( Game Development on Unity )</h5>
-  
+  <li>Visual Studio Code ( Web Development )</li>
+   
+  <li>Unity ( Game Development )</li>
+ </ul>
 
+   <h3>Frameworks</h3>
+
+  <ul>
+  <li>SwiftUI</li>
+  
+  <li>UIKit</li>
+  
+  <li>Other Apple Technologies (Speech, CoreML, ARKit etc.)</li>
+   
+  <li>Node.JS</li>
+ </ul>
+ 
  </body>
 </html>
 
