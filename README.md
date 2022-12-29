@@ -6,7 +6,8 @@ Here, you can find my projects, achievements and more.
 <html>
 <body>
 
- 
+ <h3>Swift Certfied User</h3>
+ <h4>Earned on 29 December 2022</h4>
  
 <img src="https://images.credly.com/size/680x680/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" style="width: 250px; height: 250px;">
 
