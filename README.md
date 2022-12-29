@@ -27,26 +27,27 @@ or discover new people.
 Favourite communities, follow people,
 discover new things. Post cool things, see
 cool things. Discover what you're passionate about.
+ </h4>
 
-Features:
+ <h4>Features:</h4>
+<ul>
+<li>Communities for you to talk about
+ the things you love!</li>
 
-- Communities for you to talk about
-the things you love!
+ <li>Post what's on your mind!</li>
 
-- Post what's on your mind!
-
-- Follow other people, listen
+<li>Follow other people, listen
 to what they have to say through
-special abouts!
+ special abouts!</li>
 
-- Post videos, watch videos!
+ <li>Post videos, watch videos!</li>
 
-- Deck out your profile!
+ <li>Deck out your profile!</li>
 
-- Meet new people, make new
-friends!
-
-In Skies, the sky's the limit!</h4>
+<li>Meet new people, make new
+ friends!</li>
+ </ul>
+<h4>In Skies, the sky's the limit!</h4>
  
  <h3>YouWrite - Journalling</h3>
  <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/74/93/b6/7493b63d-1d84-442b-45ee-8a4d546d8dde/AppIcon-1x_U007emarketing-0-5-0-85-220.png/434x0w.webp" style="width: 150px; height: 150px;">
