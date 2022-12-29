@@ -88,26 +88,20 @@ This app was created by Aaron Ng, Angus Chua Zi Meng, Lim Zheng Xuan Daryl & Ner
    <h3>Vantus - Puzzles</h3>
  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/49/b4/e8/49b4e861-097c-07d6-619b-3e3ed9075c07/AppIcon-1x_U007emarketing-0-13-85-220.png/434x0w.webp" style="width: 150px; height: 150px;">
  <h5> <a href="https://apps.apple.com/sg/app/vantus/id1629061766">View Vantus on the App Store</a></h5>
- <h4>Test your smarts in this
-
-image guessing game!
+ <h4>Test your smarts in this image guessing game!
 
 
 In Vantus, you will be given a random picture.
-
 2 words will be given as well, that somehow relate to the
-
 picture in one way or another. But each image is only called by
-
 one name in the online world. Can you guess which word is the
-
 correct name for the image online?
 
 
 Collect more points as you advance through the game and describe more
-
-images correctly. Level up as you get more points! Can you make it to the
-
-highest level ( Level 20 ).</h4> 
+images correctly. Level up as you get more points! 
+  
+Can you make it to the
+highest level ( Level 20 )?</h4> 
  </body>
 </html>
