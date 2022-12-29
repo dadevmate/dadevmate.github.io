@@ -68,23 +68,25 @@ to what they have to say through
  <h5> <a href="https://apps.apple.com/sg/app/stockoholic/id6444733666">View Stockoholic on the App Store</a></h5>
  <h4>Fictional Stocks, Real Fun
 
-Stockoholic is an educational yet fun paper trading game made with the aim of teaching individuals about stocks and how to trade them.
+Stockoholic is an educational yet fun paper trading game made with the aim of teaching individuals about stocks and how to trade them.</h4>
 
 
-App Features:
+ <h4>App Features:</h4>
+ 
+ 
+<ul>
+<li>8 fictional stocks to allow user to have a manageable hands-on experience buying and selling them</li>
 
-- 8 fictional stocks to allow user to have a manageable hands-on experience buying and selling them
+<li>Each stock has its very own functional graph that refreshes every 5 seconds displaying the changing stock prices</li>
 
-- Each stock has its very own functional graph that refreshes every 5 seconds displaying the changing stock prices
+<li>A portfolio displaying their level, amount of cash, value of assets as well as the various stocks and items that the user owns</li>
 
-- A portfolio displaying their level, amount of cash, value of assets as well as the various stocks and items that the user owns
+<li>Tiered achievements can be found at the progress page with a circular progress bar showing the user's advancement throughout the game</li>
 
-- Tiered achievements can be found at the progress page with a circular progress bar showing the user's advancement throughout the game
+<li>A market to allow users to spend their well-earned cash but at the same time teaching them to handle money properly to obtain assets</li>
+ </ul>
 
-- A market to allow users to spend their well-earned cash but at the same time teaching them to handle money properly to obtain assets
-
-
-This app was created by Aaron Ng, Angus Chua Zi Meng, Lim Zheng Xuan Daryl & Nerella Nethan under the 2022 Swift Accelerator Programme.</h4>
+<h4>This app was created by Aaron Ng, Angus Chua Zi Meng, Lim Zheng Xuan Daryl & Nerella Nethan under the 2022 Swift Accelerator Programme.</h4>
  
    <h3>Vantus - Puzzles</h3>
  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/49/b4/e8/49b4e861-097c-07d6-619b-3e3ed9075c07/AppIcon-1x_U007emarketing-0-13-85-220.png/434x0w.webp" style="width: 150px; height: 150px;">
