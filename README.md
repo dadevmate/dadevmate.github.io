@@ -108,17 +108,17 @@ highest level ( Level 20 )?</h4>
  <h2> Skills </h2>
  
  <h3>Languages</h3>
- <h4> 
+ <ul> 
   
-  - HTML, CSS, JavaScript
+  <li>HTML, CSS, JavaScript</li>
   
-  - C++
+  <li>C++</li>
   
-  - C#
+  <li>C#</li>
   
-  - Swift Programming Language
+  <li>Swift Programming Language</li>
   
- </h4>
+ </ul>
  
   <h3>IDEs</h3>
  <h4> 
