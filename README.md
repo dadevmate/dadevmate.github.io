@@ -17,8 +17,8 @@ Here, you can find my projects, achievements and more.
  <h4>I love building apps and other software. Here, you can find what I've got on the App Store.</h4>
  
  <h3>Skies - Social Networking</h3>
- <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/09/06/d2090657-0c37-5c8c-c771-d2ef234cd6ba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/434x0w.webp" style="width: 100px; height: 100px; border-radius: 100px;">
- <h4>Skies is my social networking app. You can create and talk in communities, socialise with others, make new friends and more!</h4>
+ <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/09/06/d2090657-0c37-5c8c-c771-d2ef234cd6ba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/434x0w.webp" style="width: 100px; height: 100px;">
+ <h4 style="font-weight: light;">Skies is my social networking app. You can create and talk in communities, socialise with others, make new friends and more!</h4>
  
   
  </body>
