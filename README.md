@@ -62,6 +62,29 @@ In Skies, the sky's the limit!</h4>
   
   Start using YouWrite today!</h4>
  
+  <h3>Stockoholic - Educational</h3>
+ <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/4f/29/924f2965-0fc6-8a64-1a9a-5ea9a7501232/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/434x0w.webp" style="width: 150px; height: 150px;">
+ <h5> <a href="https://apps.apple.com/sg/app/stockoholic/id6444733666">View Stockoholic on the App Store</a></h5>
+ <h4>Fictional Stocks, Real Fun
+
+Stockoholic is an educational yet fun paper trading game made with the aim of teaching individuals about stocks and how to trade them.
+
+
+App Features:
+
+- 8 fictional stocks to allow user to have a manageable hands-on experience buying and selling them
+
+- Each stock has its very own functional graph that refreshes every 5 seconds displaying the changing stock prices
+
+- A portfolio displaying their level, amount of cash, value of assets as well as the various stocks and items that the user owns
+
+- Tiered achievements can be found at the progress page with a circular progress bar showing the user's advancement throughout the game
+
+- A market to allow users to spend their well-earned cash but at the same time teaching them to handle money properly to obtain assets
+
+
+This app was created by Aaron Ng, Angus Chua Zi Meng, Lim Zheng Xuan Daryl & Nerella Nethan under the 2022 Swift Accelerator Programme.</h4>
+ 
   
  </body>
 </html>
