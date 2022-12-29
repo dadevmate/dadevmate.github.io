@@ -52,14 +52,19 @@ In Skies, the sky's the limit!</h4>
  <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/74/93/b6/7493b63d-1d84-442b-45ee-8a4d546d8dde/AppIcon-1x_U007emarketing-0-5-0-85-220.png/434x0w.webp" style="width: 150px; height: 150px;">
  <h5> <a href="https://apps.apple.com/sg/app/youwrite/id1629401725">View YouWrite on the App Store</a></h5>
  <h4>In this app, write journal entries with ease. 
+  
   Make as many entries as you want. 
+  
   They will be saved locally on your iPhone.
 
   Prevent other people from accessing your
+  
   journal entries with Face ID and Touch ID login
+  
   enabled as soon as you start using the app.
 
   Keeping a journal has never been easier.
+  
   Start using YouWrite today!</h4>
  
   
