@@ -161,9 +161,12 @@ highest level ( Level 20 )?</h4>
  
  <h2>Other stuff</h2>
  <h5> <a href="https://apps.apple.com/sg/app/stockoholic/id6444733666">I made a ROBLOX game</a></h5>
+ <h3>Stuff about me</h3>
  <ul>
  <li>I was part of the Swift Accelerator Class of 2022</li>
  <li>Apple product enthusiast<li>
+ <li>Quite Business savvy<li>
+ <li>Want to change the world through technology<li>
  </ul>
  </body>
 </html>
