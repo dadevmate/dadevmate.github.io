@@ -108,28 +108,28 @@ highest level ( Level 20 )?</h4>
  <h2> Skills </h2>
  
  <h3>Languages</h3>
- <ul> 
+
   
-  <li>HTML, CSS, JavaScript</li>
+  <h5>- HTML, CSS, JavaScript</h5>
   
-  <li>C++</li>
+  <h5>- C++</h5>
   
-  <li>C#</li>
+  <h5>- C#</h5>
   
-  <li>Swift Programming Language</li>
+  <h5>- Swift Programming Language</h5>
   
- </ul>
+
  
   <h3>IDEs</h3>
- <ul> 
+
   
-  <li>Xcode ( App Development on iOS platforms )</li>
+  <h5>- Xcode ( App Development on iOS platforms )</h5>
   
-  <li>Visual Studio ( Web development )</li>
+  <h5>- Visual Studio ( Web development )</h5>
   
-  <li>Visual Studio Code ( Game Development on Unity )</li>
+  <h5>- Visual Studio Code ( Game Development on Unity )</h5>
   
- </ul>
+
  </body>
 </html>
 
