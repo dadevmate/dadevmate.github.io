@@ -1,6 +1,6 @@
 # Nethan's Hub
 
-Hi, I'm Nethan Nerella. I'm an  Developer, Swift programmer and a Student. I'm also a pretty big  fan!
+Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. I'm also a pretty big Apple fan!
 Here, you can find my projects, achievements and more. 
 
 <html>
