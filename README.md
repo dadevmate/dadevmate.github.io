@@ -151,6 +151,20 @@ highest level ( Level 20 )?</h4>
   <li>Node.JS</li>
  </ul>
  
+   <h3>Other Technologies</h3>
+
+  <ul>
+  <li>Firebase</li>
+  
+  <li>MongoDB</li>
+ </ul>
+ 
+ <h2>Other stuff</h2>
+ <h5> <a href="https://apps.apple.com/sg/app/stockoholic/id6444733666">I made a ROBLOX game</a></h5>
+ <ul>
+ <li>I was part of the Swift Accelerator Class of 2022</li>
+ <li>Apple product enthusiast<li>
+ </ul>
  </body>
 </html>
 
