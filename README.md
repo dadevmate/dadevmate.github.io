@@ -121,15 +121,15 @@ highest level ( Level 20 )?</h4>
  </ul>
  
   <h3>IDEs</h3>
- <h4> 
+ <ul> 
   
-  - Xcode ( App Development on iOS platforms )
+  <li>Xcode ( App Development on iOS platforms )</li>
   
-  - Visual Studio ( Web development )
+  <li>Visual Studio ( Web development )</li>
   
-  - Visual Studio Code ( Game Development on Unity )
+  <li>Visual Studio Code ( Game Development on Unity )</li>
   
- </h4>
+ </ul>
  </body>
 </html>
 
