@@ -118,6 +118,8 @@ highest level ( Level 20 )?</h4>
   <li>C++</li>
   
   <li>C#</li>
+   
+  <li>Lua</li>
   
   <li>Swift Programming Language</li>
  </ul>
@@ -133,6 +135,8 @@ highest level ( Level 20 )?</h4>
   <li>Visual Studio Code ( Web Development )</li>
    
   <li>Unity ( Game Development )</li>
+   
+   <li>ROBLOX Studio ( Game Development )</li>
  </ul>
 
    <h3>Frameworks</h3>
