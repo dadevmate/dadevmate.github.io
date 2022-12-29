@@ -55,13 +55,8 @@ In Skies, the sky's the limit!</h4>
   
   Make as many entries as you want. 
   
-  They will be saved locally on your iPhone.
-
-  Prevent other people from accessing your
-  
-  journal entries with Face ID and Touch ID login
-  
-  enabled as soon as you start using the app.
+  They will be saved locally on your iPhone. Prevent other people from accessing your
+  journal entries with Face ID and Touch ID login enabled as soon as you start using the app.
 
   Keeping a journal has never been easier.
   
