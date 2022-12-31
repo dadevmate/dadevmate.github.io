@@ -159,6 +159,26 @@ highest level ( Level 20 )?</h4>
   <li>MongoDB</li>
  </ul>
  
+    <h3>Design tools</h3>
+
+  <ul>
+  <li>Figma</li>
+  
+  <li>Pixlr</li>
+ </ul>
+ 
+     <h3>Dependancy Managers</h3>
+
+  <ul>
+  <li>Swift Package Manager</li>
+  
+  <li>Cocoapods</li>
+  
+  <li>Git</li>
+  
+  <li>Homebrew</li>
+ </ul>
+ 
  <h2>Other stuff</h2>
  <h5> <a href="https://www.roblox.com/games/5393842161/Dave-BETA">I made a ROBLOX game</a></h5>
  
