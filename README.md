@@ -164,7 +164,7 @@ highest level ( Level 20 )?</h4>
   <ul>
   <li>Figma</li>
   
-  <li>Pixlr</li>
+  <li>Pixlr X</li>
  </ul>
  
      <h3>Dependancy Managers</h3>
