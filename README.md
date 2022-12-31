@@ -154,7 +154,7 @@ highest level ( Level 20 )?</h4>
    <h3>Other Technologies</h3>
 
   <ul>
-  <li>Firebase</li>
+  <li>Firebase (Cloud Firestore, Admob) </li>
   
   <li>MongoDB</li>
  </ul>
