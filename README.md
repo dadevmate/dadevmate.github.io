@@ -4,7 +4,7 @@ Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. 
 Here, you can find my projects, achievements and more. 
 
 <html>
-<body style="background-color: black;">
+<body>
 
  <h3>Swift Certified User</h3>
  <h4>Earned on 29 December 2022</h4>
