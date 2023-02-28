@@ -126,14 +126,14 @@ highest level ( Level 20 )?</h4>
    
   <li>Lua</li>
   
-  <li>Swift Programming Language</li>
+  <li>🎖️ Swift Programming Language</li>
  </ul>
 
  
   <h3>IDEs</h3>
 
   <ul>
-  <li>Xcode ( App Development on Apple platforms )</li>
+  <li>🎖️ Xcode ( App Development on Apple platforms )</li>
   
   <li>Visual Studio ( Game development )</li>
   
@@ -147,9 +147,9 @@ highest level ( Level 20 )?</h4>
    <h3>Frameworks</h3>
 
   <ul>
-  <li>SwiftUI</li>
+  <li>⭐️ SwiftUI</li>
   
-  <li>UIKit</li>
+  <li>⭐️ UIKit</li>
   
   <li>Other Apple Technologies (Speech, CoreML, ARKit etc.)</li>
    
@@ -159,7 +159,7 @@ highest level ( Level 20 )?</h4>
    <h3>Other Technologies</h3>
 
   <ul>
-  <li>Firebase (Cloud Firestore, Admob) </li>
+  <li>⭐️ Firebase (Cloud Firestore, Admob) </li>
   
   <li>MongoDB</li>
  </ul>
@@ -175,7 +175,7 @@ highest level ( Level 20 )?</h4>
      <h3>Dependancy Managers</h3>
 
   <ul>
-  <li>Swift Package Manager</li>
+  <li>⭐️ Swift Package Manager</li>
   
   <li>Cocoapods</li>
   
