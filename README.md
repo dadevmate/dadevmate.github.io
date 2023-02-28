@@ -191,7 +191,7 @@ highest level ( Level 20 )?</h4>
  <li>Want to change the world through technology</li>
  </ul>
  </body>
-<img src="https://i.ibb.co/kxD4wts/IMG-4843.jpg" style="width: 400px; height: 150px;">
+<img src="https://i.ibb.co/kxD4wts/IMG-4843.jpg" style="width: 400px; height: 300px;">
 </html>
 
 Thanks for stopping by!
