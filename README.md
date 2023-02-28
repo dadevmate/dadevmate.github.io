@@ -6,7 +6,7 @@ Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. 
 Here, you can find my projects, achievements and more. 
 
 <html>
-<body style="background-image: url('https://images.pexels.com/photos/1571442/pexels-photo-1571442.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');">
+<body style="background-image: url('https://images.pexels.com/photos/66284/winter-nature-season-trees-66284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');">
  
   <h1>Certificates & Achievements</h1>
 
