@@ -5,12 +5,16 @@ Here, you can find my projects, achievements and more.
 
 <html>
 <body>
+ 
+  <h1>Certificates & Achievements</h1>
+
 
  <h3>Swift Certified User</h3>
  <h4>Earned on 29 December 2022</h4>
  
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5cee40b-fd69-421e-9bc1-c8f1f31a7128" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<img src="https://i.ibb.co/kxD4wts/IMG-4843.jpg" style="width: 450px; height: 300px;">
 
  
  <h2>Apps built</h2>
@@ -191,7 +195,7 @@ highest level ( Level 20 )?</h4>
  <li>Want to change the world through technology</li>
  </ul>
  </body>
-<img src="https://i.ibb.co/kxD4wts/IMG-4843.jpg" style="width: 400px; height: 300px;">
+
 </html>
 
 Thanks for stopping by!
