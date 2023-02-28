@@ -1,5 +1,5 @@
 # Nethan's Hub
-
+  <h5> <a href="https://github.com/dadevmate">My GitHub</a></h5>
 Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. I'm also a pretty big Apple fan!
 Here, you can find my projects, achievements and more. 
 
@@ -187,7 +187,7 @@ highest level ( Level 20 )?</h4>
  <h2>Other stuff</h2>
  <h5> <a href="https://www.roblox.com/games/5393842161/Dave-BETA">I made a ROBLOX game</a></h5>
  
-  <h5> <a href="https://github.com/dadevmate">My GitHub</a></h5>
+
  <h3>Stuff about me</h3>
  <ul>
  <li>I was part of the Swift Accelerator Class of 2022</li>
