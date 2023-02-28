@@ -15,7 +15,8 @@ Here, you can find my projects, achievements and more.
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5cee40b-fd69-421e-9bc1-c8f1f31a7128" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <img src="https://i.ibb.co/kxD4wts/IMG-4843.jpg" style="width: 450px; height: 300px;">
-
+ <h3>Swift Accelerator Class of 2022</h3>
+ <img src="https://i.ibb.co/JcCFj9z/IMG-612-E5-BD258-F9-1.jpg" style="width: 450px; height: 300px;">
  
  <h2>Apps built</h2>
  <h4>I love building apps and other software. Here, you can find what I've got on the App Store.</h4>
