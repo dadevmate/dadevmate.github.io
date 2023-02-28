@@ -1,5 +1,5 @@
 # Nethan's Hub
-<a href="https://github.com/dadevmate"><img src="https://i.ibb.co/nnkpjvH/github-mark.png"></a>
+<a href="https://github.com/dadevmate"><img src="https://i.ibb.co/nnkpjvH/github-mark.png" style="width: 50px; height: 50px;"></a>
 Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. I'm also a pretty big Apple fan!
 Here, you can find my projects, achievements and more. 
 
