@@ -1,6 +1,7 @@
 <a href="https://github.com/dadevmate"><img src="https://i.ibb.co/nnkpjvH/github-mark.png" style="width: 50px; height: 50px;"></a>
 <a href="https://www.linkedin.com/in/nethan-nerella-07350a268/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/264px-Instagram_logo_2016.svg.png?20210403190622" style="width: 50px; height: 50px;"></a>
 <a href="https://www.linkedin.com/in/nethan-nerella-07350a268/"><img src="https://img.icons8.com/color/512/linkedin.png" style="width: 50px; height: 50px;"></a>
+<a href="https://www.credly.com/users/nethan-nerella"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" style="width: 50px; height: 50px;"></a>
 # Nethan's Hub
 
 Hi, I'm Nethan Nerella. I'm an Apple Developer, Swift programmer and a Student. I'm also a pretty big Apple fan!
