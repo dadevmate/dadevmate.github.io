@@ -8,7 +8,7 @@ Here, you can find my projects, achievements and more.
 <html>
 <body style="background-image: url('https://images.pexels.com/photos/66284/winter-nature-season-trees-66284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');">
  
-  <h1>Certificates & Achievements</h1>
+  <h2>Certificates & Achievements</h2>
 
 
  <h3>Swift Certified User</h3>
