@@ -1,7 +1,7 @@
 <html>
  
  <body>
-<a href="https://nethanbiz.wixsite.com/mysite" style="color: grey; font-family: Lucida Grande; font-weight: bold;">Click here</a>
+<h1><a href="https://nethanbiz.wixsite.com/mysite">Click here to continue to Nethan's Hub</a></h1>
  </body>
  
  </html>
