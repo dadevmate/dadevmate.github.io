@@ -1,7 +1,7 @@
 <html>
  
  <body>
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://nethanbiz.wixsite.com/mysite">Click here</a>
  </body>
  
  </html>
