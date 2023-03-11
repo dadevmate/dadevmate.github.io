@@ -1,7 +1,7 @@
 <html>
  
  <body>
-  <h1><a href="nethan.tech">Click to continue</a></h1>
+  <h1><a href="nethanbix.wixsite.com/mysite">Click to continue</a></h1>
  </body>
  
  </html>
